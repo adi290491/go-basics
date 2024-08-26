@@ -1,0 +1,24 @@
+[
+  {
+    "Title": "Avengers - Endgame",
+    "released": 2019,
+    "color": true,
+    "Actors": [
+      "Robert Downey Jr",
+      "Chris Evans",
+      "Scarlett Johanssen",
+      "Josh Brolin"
+    ]
+  },
+  {
+    "Title": "Deadpool and Wolverine",
+    "released": 2024,
+    "color": true,
+    "Actors": ["Ryan Reynolds", "Hugh Jackman"]
+  },
+  {
+    "Title": "Shawshank Redemption",
+    "released": 1995,
+    "Actors": ["Morgan Freeman"]
+  }
+]
